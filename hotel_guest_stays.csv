@@ -1,0 +1,351 @@
+Guest_ID,Nights_Stayed,Room_Fare,Additional_Spend,Guest_Age,Room_Type,Booking_Channel,Country,Feedback_Rating
+G0001,11,1433.37,202.88,46,Double,Direct,Brazil,Poor
+G0002,7,833.17,177.42,69,Double,Corporate,UAE,Good
+G0003,6,340.55,275.21,20,Suite,Direct,India,Excellent
+G0004,9,2717.77,55.48,44,Single,Corporate,UAE,Average
+G0005,3,231.61,261.33,43,Deluxe,Online Travel Agency,Australia,Good
+G0006,4,1560.76,77.28,67,Double,Walk-in,Australia,Excellent
+G0007,14,5094.11,57.17,35,Single,Corporate,UAE,Excellent
+G0008,4,251.83,0.18,50,Suite,Online Travel Agency,USA,Excellent
+G0009,6,2900.56,58.71,20,Deluxe,Direct,France,Excellent
+G0010,10,2713.69,231.45,72,Single,Corporate,UK,Good
+G0011,9,1690.15,208.94,68,Single,Direct,UAE,Excellent
+G0012,10,4853.54,101.33,24,Single,Direct,France,Excellent
+G0013,4,1017.82,98.47,27,Double,Online Travel Agency,France,Average
+G0014,7,881.96,255.76,52,Single,Walk-in,UK,Average
+G0015,6,870.97,248.91,20,Double,Online Travel Agency,China,Good
+G0016,11,2917.06,161.76,65,Deluxe,Online Travel Agency,China,Poor
+G0017,14,2791.03,291.27,62,Deluxe,Online Travel Agency,Canada,Excellent
+G0018,10,1545.29,261.21,35,Suite,Direct,Australia,Excellent
+G0019,10,2080.34,122.26,31,Single,Corporate,UAE,Excellent
+G0020,13,3887.27,151.2,28,Single,Corporate,USA,Average
+G0021,10,3728.6,36.83,45,Deluxe,Walk-in,Brazil,Good
+G0022,5,2236.59,231.55,58,Double,Corporate,Brazil,Average
+G0023,14,4602.86,135.76,48,Single,Walk-in,Australia,Average
+G0024,2,854.42,44.41,61,Single,Online Travel Agency,UAE,Good
+G0025,4,477.91,17.7,38,Double,Online Travel Agency,UAE,Average
+G0026,5,1764.48,184.77,26,Suite,Corporate,Brazil,Excellent
+G0027,2,797.35,82.42,46,Suite,Walk-in,Canada,Good
+G0028,4,1678.4,8.13,51,Suite,Corporate,Australia,Average
+G0029,13,3964.16,34.88,25,Deluxe,Walk-in,UAE,Average
+G0030,12,2369.57,253.28,53,Deluxe,Direct,Australia,Good
+G0031,7,2002.01,230.26,49,Deluxe,Online Travel Agency,Canada,Average
+G0032,8,1903.81,249.86,63,Deluxe,Direct,Germany,Excellent
+G0033,2,385.5,67.16,48,Suite,Corporate,India,Average
+G0034,2,746.37,152.11,43,Single,Online Travel Agency,China,Excellent
+G0035,9,4366.87,69.58,23,Deluxe,Direct,USA,Good
+G0036,2,313.32,253.81,71,Double,Corporate,UAE,Good
+G0037,6,2466.1,52.6,49,Deluxe,Walk-in,UK,Average
+G0038,14,6207.85,187.05,74,Double,Direct,UK,Good
+G0039,5,1351.61,19.38,36,Double,Online Travel Agency,USA,Excellent
+G0040,3,670.0,153.04,32,Double,Walk-in,France,Excellent
+G0041,14,1434.0,87.23,54,Deluxe,Direct,Brazil,Good
+G0042,10,1323.0,237.29,33,Single,Corporate,Brazil,Good
+G0043,12,2933.53,150.83,21,Single,Walk-in,France,Poor
+G0044,6,1201.4,56.78,41,Suite,Online Travel Agency,France,Excellent
+G0045,5,1162.05,189.21,48,Suite,Corporate,India,Excellent
+G0046,9,3658.7,272.24,39,Single,Corporate,UK,Average
+G0047,7,1510.28,278.21,74,Double,Online Travel Agency,Canada,Good
+G0048,8,1531.15,69.94,33,Suite,Direct,France,Good
+G0049,2,828.83,19.04,54,Deluxe,Direct,Brazil,Poor
+G0050,3,673.34,283.19,24,Double,Online Travel Agency,Canada,Excellent
+G0051,13,6208.92,16.96,29,Deluxe,Walk-in,France,Good
+G0052,3,1433.56,150.99,71,Double,Walk-in,Brazil,Poor
+G0053,5,1468.84,243.05,52,Single,Walk-in,Brazil,Excellent
+G0054,13,922.21,11.09,46,Single,Direct,China,Excellent
+G0055,5,1768.52,99.51,32,Double,Corporate,UK,Excellent
+G0056,14,1862.08,251.84,33,Single,Corporate,UAE,Good
+G0057,9,4152.91,23.47,49,Double,Corporate,USA,Good
+G0058,7,2974.73,171.18,26,Suite,Corporate,France,Excellent
+G0059,10,2867.78,139.33,43,Suite,Direct,Australia,Good
+G0060,6,957.77,195.17,69,Deluxe,Corporate,UAE,Good
+G0061,13,3238.02,271.74,37,Suite,Walk-in,UAE,Excellent
+G0062,2,366.23,265.75,66,Deluxe,Corporate,Australia,Excellent
+G0063,8,2831.0,42.06,64,Suite,Online Travel Agency,USA,Poor
+G0064,7,2395.16,162.96,47,Deluxe,Direct,USA,Excellent
+G0065,14,2244.35,47.21,44,Double,Direct,France,Excellent
+G0066,12,1645.43,268.96,40,Double,Direct,Australia,Excellent
+G0067,5,1010.5,221.37,58,Deluxe,Online Travel Agency,UK,Good
+G0068,11,3953.82,20.12,65,Deluxe,Walk-in,Germany,Excellent
+G0069,8,3175.85,90.99,44,Deluxe,Walk-in,Canada,Excellent
+G0070,6,1281.35,125.57,73,Double,Online Travel Agency,UAE,Excellent
+G0071,14,6853.42,26.25,46,Suite,Walk-in,USA,Poor
+G0072,12,5024.05,14.59,70,Single,Direct,UK,Average
+G0073,1,497.36,104.17,61,Suite,Direct,UAE,Poor
+G0074,13,2329.86,277.26,19,Suite,Corporate,Brazil,Average
+G0075,3,410.84,115.02,68,Suite,Direct,China,Average
+G0076,6,1668.95,120.03,73,Single,Online Travel Agency,Canada,Excellent
+G0077,13,5721.94,122.71,21,Double,Direct,India,Excellent
+G0078,6,602.6,179.14,24,Suite,Corporate,France,Average
+G0079,5,2478.64,170.19,51,Double,Online Travel Agency,France,Excellent
+G0080,5,459.46,203.56,73,Deluxe,Corporate,UK,Good
+G0081,2,807.57,184.69,50,Double,Direct,Canada,Average
+G0082,3,1049.59,59.45,56,Suite,Walk-in,India,Excellent
+G0083,8,1657.77,267.48,50,Single,Corporate,Germany,Average
+G0084,10,777.68,150.23,31,Single,Corporate,India,Poor
+G0085,5,1082.0,175.83,54,Suite,Walk-in,India,Good
+G0086,12,3157.41,9.5,62,Suite,Walk-in,France,Good
+G0087,14,5414.1,233.52,60,Single,Online Travel Agency,UAE,Poor
+G0088,6,1492.59,15.15,73,Deluxe,Direct,UK,Excellent
+G0089,12,3795.66,210.53,59,Single,Online Travel Agency,Germany,Average
+G0090,10,4346.19,55.25,36,Suite,Online Travel Agency,Canada,Average
+G0091,3,1102.36,17.66,38,Suite,Direct,Australia,Poor
+G0092,3,966.3,173.2,48,Double,Direct,Canada,Excellent
+G0093,3,981.0,219.71,45,Single,Corporate,UAE,Poor
+G0094,10,1139.69,88.52,70,Double,Direct,India,Excellent
+G0095,2,572.3,170.43,34,Single,Walk-in,India,Good
+G0096,2,978.59,65.85,47,Deluxe,Corporate,USA,Good
+G0097,14,3531.72,177.12,35,Suite,Walk-in,UK,Good
+G0098,10,4331.02,48.38,32,Deluxe,Corporate,Brazil,Excellent
+G0099,10,3319.83,39.82,47,Single,Walk-in,Germany,Good
+G0100,8,1523.01,68.89,64,Double,Corporate,Canada,Poor
+G0101,13,765.76,156.08,52,Single,Direct,USA,Excellent
+G0102,9,485.84,260.37,70,Double,Online Travel Agency,UAE,Average
+G0103,1,259.43,151.81,35,Double,Direct,USA,Good
+G0104,1,72.46,210.92,70,Deluxe,Walk-in,India,Excellent
+G0105,6,2183.48,194.85,19,Double,Walk-in,USA,Average
+G0106,12,4920.02,40.56,47,Single,Walk-in,China,Excellent
+G0107,14,4957.78,198.17,68,Double,Walk-in,USA,Excellent
+G0108,8,1280.63,225.78,51,Double,Online Travel Agency,China,Excellent
+G0109,9,1939.1,84.3,49,Single,Online Travel Agency,UAE,Excellent
+G0110,13,6094.3,88.48,52,Suite,Online Travel Agency,Germany,Excellent
+G0111,7,934.62,94.6,75,Suite,Walk-in,Australia,Excellent
+G0112,4,824.85,162.07,47,Deluxe,Direct,Australia,Good
+G0113,1,74.43,145.3,66,Double,Online Travel Agency,France,Good
+G0114,8,2641.87,182.03,74,Double,Direct,India,Poor
+G0115,11,5113.2,290.31,66,Single,Corporate,UK,Excellent
+G0116,4,1526.74,8.07,70,Single,Direct,Canada,Excellent
+G0117,11,3321.83,5.72,49,Single,Online Travel Agency,France,Excellent
+G0118,6,1962.7,59.23,35,Deluxe,Walk-in,Germany,Excellent
+G0119,2,822.42,78.05,32,Double,Corporate,UAE,Good
+G0120,12,5463.4,121.23,66,Deluxe,Direct,France,Good
+G0121,12,652.89,241.48,52,Suite,Online Travel Agency,Canada,Average
+G0122,5,1247.09,187.26,69,Deluxe,Direct,France,Good
+G0123,12,4089.74,135.11,63,Single,Direct,Canada,Excellent
+G0124,6,2925.95,156.75,20,Deluxe,Corporate,India,Excellent
+G0125,6,1846.74,184.71,75,Suite,Online Travel Agency,France,Excellent
+G0126,11,5290.84,144.68,45,Deluxe,Direct,China,Average
+G0127,14,1917.83,33.12,54,Deluxe,Corporate,China,Excellent
+G0128,1,482.27,127.02,19,Deluxe,Corporate,Australia,Average
+G0129,12,3707.95,102.72,58,Double,Online Travel Agency,France,Excellent
+G0130,7,2726.91,285.24,33,Suite,Walk-in,China,Good
+G0131,1,481.43,173.47,24,Single,Walk-in,UK,Good
+G0132,3,377.66,252.48,32,Suite,Online Travel Agency,Australia,Good
+G0133,9,1152.13,78.67,24,Double,Corporate,Australia,Excellent
+G0134,4,1956.07,82.67,51,Deluxe,Online Travel Agency,Brazil,Excellent
+G0135,7,1070.99,212.44,54,Single,Direct,USA,Average
+G0136,4,948.01,195.28,74,Double,Walk-in,India,Excellent
+G0137,4,1715.55,34.01,60,Double,Walk-in,USA,Excellent
+G0138,14,3477.95,122.4,37,Double,Direct,India,Average
+G0139,4,896.41,117.76,22,Deluxe,Corporate,UK,Good
+G0140,10,3133.7,252.86,36,Double,Direct,India,Good
+G0141,13,5719.46,46.89,64,Suite,Online Travel Agency,Australia,Excellent
+G0142,12,4488.2,5.74,21,Suite,Walk-in,USA,Excellent
+G0143,11,4007.48,117.5,20,Double,Walk-in,China,Excellent
+G0144,14,5917.63,156.02,70,Suite,Walk-in,Australia,Average
+G0145,11,4607.39,30.13,54,Deluxe,Corporate,Brazil,Excellent
+G0146,5,2139.28,206.32,25,Suite,Corporate,China,Excellent
+G0147,9,2697.83,173.79,33,Double,Walk-in,Germany,Average
+G0148,7,2586.08,124.1,31,Suite,Walk-in,Canada,Excellent
+G0149,8,2568.33,130.39,74,Single,Corporate,UAE,Good
+G0150,1,235.19,258.73,28,Double,Corporate,China,Excellent
+G0151,9,2743.17,170.34,27,Double,Corporate,India,Excellent
+G0152,13,1365.37,279.22,65,Single,Walk-in,UK,Average
+G0153,9,1129.86,191.16,64,Double,Online Travel Agency,Brazil,Good
+G0154,9,3771.29,183.98,38,Suite,Direct,USA,Good
+G0155,1,453.55,243.24,45,Double,Online Travel Agency,Brazil,Good
+G0156,8,2795.56,236.94,40,Double,Walk-in,Australia,Average
+G0157,6,2382.23,160.23,41,Single,Direct,Canada,Excellent
+G0158,3,387.83,153.53,23,Single,Online Travel Agency,UK,Good
+G0159,5,695.94,274.24,26,Deluxe,Corporate,Germany,Good
+G0160,3,1228.28,226.85,45,Double,Corporate,UK,Poor
+G0161,3,595.75,229.6,30,Suite,Corporate,India,Excellent
+G0162,12,4310.97,207.76,39,Single,Walk-in,UAE,Average
+G0163,8,821.02,147.65,69,Single,Online Travel Agency,Canada,Excellent
+G0164,7,568.16,17.86,55,Deluxe,Corporate,UK,Good
+G0165,8,1630.2,170.63,53,Double,Direct,Canada,Excellent
+G0166,8,2581.39,210.1,56,Double,Direct,USA,Excellent
+G0167,13,2381.15,193.69,57,Single,Direct,UAE,Excellent
+G0168,5,565.64,222.34,40,Suite,Online Travel Agency,USA,Good
+G0169,7,704.04,207.62,20,Deluxe,Corporate,Australia,Good
+G0170,5,937.07,229.04,21,Deluxe,Corporate,UK,Good
+G0171,4,1360.81,255.38,58,Double,Walk-in,Brazil,Excellent
+G0172,3,356.76,111.79,55,Single,Corporate,Canada,Excellent
+G0173,5,947.43,270.56,73,Single,Corporate,USA,Average
+G0174,2,910.0,145.23,32,Suite,Walk-in,China,Good
+G0175,10,1346.13,169.48,21,Double,Walk-in,UAE,Excellent
+G0176,11,3368.83,92.45,74,Deluxe,Online Travel Agency,France,Excellent
+G0177,5,1061.63,4.5,26,Single,Walk-in,USA,Excellent
+G0178,14,3339.79,170.35,34,Suite,Walk-in,China,Good
+G0179,11,1829.63,67.97,68,Deluxe,Corporate,France,Poor
+G0180,4,761.49,138.52,45,Double,Online Travel Agency,Canada,Average
+G0181,3,1131.31,50.4,40,Single,Direct,France,Average
+G0182,2,702.9,285.31,48,Deluxe,Corporate,Brazil,Excellent
+G0183,7,2226.01,183.48,58,Suite,Corporate,USA,Poor
+G0184,7,1095.07,173.38,36,Suite,Direct,UK,Good
+G0185,10,3472.32,146.57,45,Double,Direct,UK,Good
+G0186,14,5432.07,187.28,44,Single,Online Travel Agency,India,Average
+G0187,9,1937.01,297.98,59,Double,Corporate,UK,Good
+G0188,13,4273.48,97.84,27,Suite,Online Travel Agency,France,Excellent
+G0189,4,369.12,287.6,75,Deluxe,Walk-in,India,Good
+G0190,11,3201.13,201.25,74,Double,Online Travel Agency,USA,Excellent
+G0191,7,3083.79,220.3,51,Double,Corporate,China,Average
+G0192,7,1794.82,222.37,62,Single,Direct,China,Poor
+G0193,10,611.63,64.75,39,Double,Direct,India,Excellent
+G0194,5,2265.16,159.43,65,Single,Walk-in,UAE,Poor
+G0195,2,203.7,128.77,73,Double,Walk-in,UK,Good
+G0196,7,1830.29,254.19,62,Deluxe,Direct,France,Excellent
+G0197,3,357.65,188.94,46,Single,Direct,USA,Excellent
+G0198,1,155.46,225.62,41,Double,Corporate,India,Excellent
+G0199,7,2885.54,154.92,67,Deluxe,Direct,USA,Good
+G0200,11,4971.05,9.06,61,Single,Corporate,USA,Poor
+G0201,3,1343.16,77.21,25,Single,Corporate,China,Good
+G0202,8,3430.42,52.37,73,Double,Direct,UK,Excellent
+G0203,3,932.23,2.98,61,Suite,Direct,Germany,Average
+G0204,13,5965.26,156.2,70,Double,Online Travel Agency,USA,Poor
+G0205,8,2415.57,121.87,61,Deluxe,Online Travel Agency,USA,Excellent
+G0206,10,1748.1,105.5,23,Single,Online Travel Agency,Canada,Good
+G0207,12,4623.84,78.51,71,Double,Direct,UAE,Average
+G0208,7,2326.25,99.33,55,Single,Walk-in,USA,Excellent
+G0209,12,1091.91,267.24,28,Deluxe,Direct,Canada,Average
+G0210,4,907.59,257.62,31,Suite,Walk-in,UK,Average
+G0211,5,1217.45,89.26,74,Double,Direct,Brazil,Good
+G0212,14,2925.01,38.42,51,Double,Direct,Germany,Good
+G0213,4,477.49,231.81,19,Single,Corporate,Australia,Average
+G0214,7,1818.08,19.8,52,Suite,Walk-in,India,Poor
+G0215,8,1288.43,140.91,26,Deluxe,Walk-in,UAE,Good
+G0216,9,4308.91,246.18,46,Double,Walk-in,France,Excellent
+G0217,10,2378.88,5.7,38,Single,Corporate,Brazil,Excellent
+G0218,3,907.54,278.94,18,Suite,Direct,Germany,Excellent
+G0219,12,4790.58,166.5,48,Double,Corporate,USA,Poor
+G0220,13,5444.27,145.98,53,Double,Corporate,Germany,Average
+G0221,1,84.41,35.85,53,Suite,Online Travel Agency,UAE,Excellent
+G0222,13,4863.58,112.25,23,Suite,Direct,Brazil,Excellent
+G0223,4,850.86,61.27,61,Suite,Corporate,Brazil,Excellent
+G0224,8,2070.45,178.55,43,Double,Walk-in,China,Excellent
+G0225,1,155.02,281.21,29,Deluxe,Walk-in,USA,Average
+G0226,10,2720.12,28.84,20,Double,Corporate,India,Poor
+G0227,7,939.64,220.36,23,Double,Corporate,UK,Good
+G0228,7,532.19,283.44,39,Suite,Corporate,USA,Good
+G0229,3,1456.27,25.3,25,Deluxe,Direct,Australia,Excellent
+G0230,7,865.97,279.4,59,Suite,Online Travel Agency,India,Average
+G0231,6,1973.88,164.45,26,Single,Corporate,India,Good
+G0232,2,472.37,203.04,28,Deluxe,Corporate,Brazil,Average
+G0233,7,1450.94,17.78,75,Deluxe,Online Travel Agency,Canada,Poor
+G0234,10,4264.07,0.17,74,Suite,Direct,Australia,Poor
+G0235,8,2851.57,160.94,19,Suite,Online Travel Agency,India,Good
+G0236,9,2281.74,80.17,60,Single,Online Travel Agency,Brazil,Excellent
+G0237,14,6797.32,173.74,55,Deluxe,Direct,France,Poor
+G0238,11,4226.4,263.5,53,Suite,Online Travel Agency,UAE,Good
+G0239,6,2362.04,231.48,19,Deluxe,Online Travel Agency,India,Excellent
+G0240,4,1436.3,56.89,60,Single,Direct,USA,Good
+G0241,2,880.19,117.3,46,Deluxe,Online Travel Agency,Australia,Poor
+G0242,9,2849.94,237.49,31,Deluxe,Walk-in,UAE,Good
+G0243,14,1304.0,139.55,53,Suite,Corporate,UK,Excellent
+G0244,2,467.12,183.87,37,Deluxe,Corporate,USA,Excellent
+G0245,4,525.92,32.36,67,Double,Online Travel Agency,UAE,Good
+G0246,1,217.73,80.19,45,Deluxe,Direct,Australia,Good
+G0247,13,6431.47,77.79,55,Suite,Walk-in,Germany,Excellent
+G0248,6,1480.69,121.34,68,Suite,Walk-in,India,Excellent
+G0249,10,2030.83,158.47,24,Suite,Online Travel Agency,Germany,Poor
+G0250,4,580.31,115.17,54,Suite,Online Travel Agency,UAE,Good
+G0251,10,4287.82,147.02,38,Double,Walk-in,Germany,Good
+G0252,2,755.38,268.39,70,Double,Direct,Australia,Poor
+G0253,13,5511.21,118.82,31,Double,Walk-in,Germany,Excellent
+G0254,12,2086.4,136.71,59,Deluxe,Direct,UAE,Good
+G0255,11,5000.58,136.47,46,Single,Corporate,Germany,Excellent
+G0256,3,602.22,276.8,70,Suite,Direct,UK,Good
+G0257,1,153.4,256.27,71,Double,Corporate,Brazil,Good
+G0258,11,5248.56,147.97,30,Single,Online Travel Agency,UK,Good
+G0259,12,5417.12,23.07,55,Deluxe,Online Travel Agency,Australia,Good
+G0260,14,6488.95,299.57,50,Deluxe,Online Travel Agency,France,Poor
+G0261,13,2319.22,216.52,40,Deluxe,Corporate,Germany,Excellent
+G0262,13,5416.59,267.59,34,Double,Corporate,Australia,Poor
+G0263,14,4112.22,271.3,57,Single,Walk-in,UAE,Good
+G0264,13,1772.36,257.0,72,Single,Online Travel Agency,France,Average
+G0265,3,754.87,129.7,18,Double,Online Travel Agency,UK,Excellent
+G0266,14,4741.39,246.03,44,Double,Direct,UK,Good
+G0267,6,2988.64,268.17,41,Suite,Online Travel Agency,USA,Average
+G0268,3,1173.8,294.62,60,Double,Corporate,India,Good
+G0269,12,2007.16,163.54,37,Suite,Walk-in,UK,Excellent
+G0270,10,3121.23,286.47,28,Double,Corporate,Canada,Excellent
+G0271,14,5129.37,66.33,50,Suite,Online Travel Agency,Canada,Good
+G0272,3,318.45,197.71,58,Double,Walk-in,Australia,Poor
+G0273,8,1105.03,141.9,27,Double,Corporate,France,Excellent
+G0274,6,1365.51,59.28,21,Suite,Direct,China,Excellent
+G0275,7,717.5,19.96,25,Suite,Direct,Brazil,Good
+G0276,6,1704.67,107.2,34,Double,Walk-in,Canada,Average
+G0277,3,960.16,49.36,38,Deluxe,Online Travel Agency,India,Good
+G0278,8,1839.35,71.66,56,Double,Online Travel Agency,Brazil,Average
+G0279,10,3796.31,38.64,20,Single,Corporate,UK,Excellent
+G0280,12,2728.28,40.55,54,Suite,Online Travel Agency,USA,Good
+G0281,1,292.93,155.78,32,Deluxe,Online Travel Agency,Germany,Excellent
+G0282,14,6176.78,254.5,28,Single,Direct,India,Good
+G0283,14,1198.56,113.8,57,Suite,Online Travel Agency,UAE,Poor
+G0284,9,965.01,249.76,32,Suite,Walk-in,Canada,Average
+G0285,14,2336.51,281.88,26,Deluxe,Direct,USA,Good
+G0286,10,4741.79,268.48,54,Suite,Walk-in,UK,Good
+G0287,14,6557.85,72.4,35,Single,Direct,UK,Excellent
+G0288,4,1752.65,79.89,38,Suite,Direct,India,Poor
+G0289,7,1733.62,281.78,29,Double,Online Travel Agency,Germany,Good
+G0290,3,644.76,113.63,62,Suite,Direct,Canada,Excellent
+G0291,12,4677.3,53.38,58,Single,Online Travel Agency,UK,Excellent
+G0292,5,527.21,276.1,21,Double,Walk-in,UK,Excellent
+G0293,14,5023.27,176.48,39,Single,Online Travel Agency,UAE,Good
+G0294,1,130.12,76.95,32,Deluxe,Walk-in,India,Good
+G0295,6,1585.06,138.11,24,Double,Corporate,USA,Good
+G0296,12,3093.3,134.18,25,Deluxe,Walk-in,Australia,Excellent
+G0297,8,3235.99,204.89,59,Single,Online Travel Agency,Germany,Excellent
+G0298,12,1379.99,87.45,37,Double,Online Travel Agency,India,Poor
+G0299,6,690.17,203.51,26,Suite,Direct,UAE,Average
+G0300,7,3010.91,256.78,70,Suite,Corporate,Canada,Average
+G0301,2,326.84,139.83,18,Suite,Corporate,UK,Good
+G0302,9,869.67,194.49,38,Single,Direct,Brazil,Good
+G0303,5,1952.99,295.44,33,Single,Online Travel Agency,Australia,Excellent
+G0304,5,1010.45,224.0,43,Deluxe,Walk-in,UK,Excellent
+G0305,11,3466.5,28.97,50,Single,Online Travel Agency,France,Good
+G0306,14,3770.56,198.42,32,Deluxe,Online Travel Agency,China,Good
+G0307,13,2095.45,174.87,35,Double,Direct,Australia,Excellent
+G0308,14,2898.89,237.81,51,Deluxe,Corporate,China,Average
+G0309,7,569.68,5.53,23,Deluxe,Corporate,UK,Average
+G0310,8,1300.06,121.58,35,Suite,Online Travel Agency,USA,Excellent
+G0311,8,3968.7,84.35,61,Single,Walk-in,India,Good
+G0312,12,4964.84,72.68,26,Suite,Online Travel Agency,UK,Poor
+G0313,14,736.9,89.74,23,Suite,Corporate,India,Excellent
+G0314,13,1586.86,77.74,39,Deluxe,Walk-in,UK,Good
+G0315,2,402.99,266.46,72,Double,Online Travel Agency,France,Average
+G0316,4,1706.43,125.95,25,Deluxe,Walk-in,China,Average
+G0317,6,1877.99,261.27,53,Double,Corporate,UK,Excellent
+G0318,4,1278.45,61.91,47,Single,Walk-in,China,Good
+G0319,4,1032.06,249.1,46,Suite,Online Travel Agency,Brazil,Average
+G0320,4,969.44,130.55,66,Suite,Corporate,Canada,Average
+G0321,14,2160.36,267.63,30,Double,Direct,India,Excellent
+G0322,1,418.49,205.48,42,Single,Corporate,Brazil,Good
+G0323,14,1278.42,222.25,70,Deluxe,Online Travel Agency,UK,Excellent
+G0324,7,2301.23,146.32,44,Double,Direct,France,Good
+G0325,5,1020.8,298.76,74,Suite,Online Travel Agency,Canada,Good
+G0326,13,2314.04,24.64,67,Single,Online Travel Agency,Canada,Excellent
+G0327,10,4065.68,152.43,66,Double,Direct,UK,Excellent
+G0328,6,2345.52,60.07,55,Double,Corporate,China,Good
+G0329,6,2836.87,274.19,44,Single,Corporate,UAE,Good
+G0330,9,3128.43,100.49,51,Suite,Corporate,Germany,Excellent
+G0331,10,4225.99,181.62,21,Suite,Direct,UAE,Excellent
+G0332,4,1541.17,57.43,60,Deluxe,Online Travel Agency,USA,Average
+G0333,13,1221.4,212.65,53,Single,Corporate,India,Good
+G0334,2,890.95,161.19,30,Deluxe,Walk-in,Australia,Excellent
+G0335,12,5460.26,228.46,63,Double,Corporate,USA,Average
+G0336,4,1333.51,169.59,23,Suite,Walk-in,Germany,Excellent
+G0337,8,2921.3,250.42,18,Deluxe,Direct,India,Excellent
+G0338,13,5524.32,36.64,28,Suite,Direct,UAE,Average
+G0339,9,509.65,190.4,62,Double,Online Travel Agency,Australia,Poor
+G0340,6,2759.18,37.39,73,Double,Direct,UAE,Excellent
+G0341,4,736.79,26.65,46,Suite,Online Travel Agency,Australia,Average
+G0342,6,798.29,259.59,27,Deluxe,Online Travel Agency,UAE,Excellent
+G0343,6,1404.87,265.94,23,Suite,Online Travel Agency,France,Excellent
+G0344,8,3742.83,275.85,47,Single,Online Travel Agency,Germany,Good
+G0345,2,574.64,46.19,29,Deluxe,Walk-in,Brazil,Excellent
+G0346,6,2376.0,36.78,50,Suite,Online Travel Agency,Brazil,Excellent
+G0347,9,2689.61,204.97,55,Suite,Online Travel Agency,USA,Poor
+G0348,2,575.92,238.57,20,Deluxe,Corporate,Germany,Good
+G0349,6,2657.6,87.11,58,Single,Online Travel Agency,UK,Good
+G0350,8,3716.55,212.17,18,Double,Online Travel Agency,Canada,Excellent
