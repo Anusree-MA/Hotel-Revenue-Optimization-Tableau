@@ -83,7 +83,7 @@ The dataset contains information on:
 
 # 📊 Dashboard 1 – Executive Performance Dashboard
 
-![Executive Dashboard](assets/Executive.png)
+![Executive Dashboard](Assets/Executive.png)
 
 ### Key Features
 
@@ -105,7 +105,7 @@ The dataset contains information on:
 
 # 📊 Dashboard 2 – Guest Insights & Segmentation
 
-![Guest Insights](assets/Insights.png)
+![Guest Insights](Assets/Insights.png)
 
 ### Key Features
 
@@ -128,7 +128,7 @@ The dataset contains information on:
 
 # 📊 Dashboard 3 – Executive Recommendations
 
-![Recommendations](assets/Recommendation.png)
+![Recommendations](Assets/Recommendation.png)
 
 The dashboard concludes with business recommendations derived from analytical findings.
 
